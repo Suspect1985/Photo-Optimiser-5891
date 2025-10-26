@@ -1,0 +1,13 @@
+# Re-Sizer Dependencies
+
+# GUI Framework
+PyQt6>=6.6.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# HEIC Support (optional but recommended)
+pillow-heif>=0.13.0
+
+# Build Tool (for creating .exe)
+pyinstaller>=6.0.0
